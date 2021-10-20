@@ -1,1 +1,1 @@
-# Teachedu-Task2
+# Tech-Edu-Task-2
